@@ -39,7 +39,7 @@
   	
   	<div id="blog">
   	<div id="comeIn">
-  	<center><a href="83546200.xyz" target="_blank" class="links" id="a1">🍭前往主站</a><a class="links">　・　</a><a class="links" href="83546200.xyz" target="_blank" id="a2">🍢前往导航页</a><a class="links" id="a4">　・　</a><a class="links" href="83546200.xyz" target="_blank" id="a3">🍡前往博客</a></center>
+  	<center><a href="83546200.xyz" target="_blank" class="links" id="a1">🍭前往主站</a><a class="links">　・　</a><a class="links" href="" target="_blank" id="a2">🍢前往导航页</a><a class="links" id="a4">　・　</a><a class="links" href="" target="_blank" id="a3">🍡前往博客</a></center>
   	</div>
   	</div>
 <script src="./view/nexmoe/js/urusai.js" async></script>
